@@ -1,2 +1,5 @@
-# erocci-docker
-erocci Dockerfile and resources
+# docker-erlang
+
+This container is based on Debian Jessie.
+
+It contains minimal erlang system.
